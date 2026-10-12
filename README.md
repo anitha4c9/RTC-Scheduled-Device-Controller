@@ -1046,7 +1046,7 @@ The project can be extended with:
 
 # 👨‍💻 Author
 
-## Satya Harshitha Panuganti
+## Naga Anitha Vemula 
 
 **Embedded Systems / Firmware Engineer – Fresher**
 
@@ -1113,4 +1113,4 @@ It also includes time validation, date validation, leap-year validation, and sam
 
 # 👨‍💻 Author
 
-## Satya Harshitha Panuganti
+## Naga Anitha Vemula
