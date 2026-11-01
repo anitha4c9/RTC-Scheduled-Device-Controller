@@ -1017,7 +1017,7 @@ The project can be extended with:
 
 ## Project Setup
 
-![Project Setup](proteus/mini_project.jpeg)
+![Project Setup](proteus/mini%20project.jpeg)
 
 ---
 
