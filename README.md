@@ -1005,19 +1005,19 @@ The project can be extended with:
 
 ## Hardware Setup
 
-![Hardware setup](Hardware/Hardware_setup.jpeg)
+![Hardware setup](Hardware/Hardware_setup.png)
 
 ## LCD Interface
 
-![LCD Interface](Hardware/LCD.jpeg)
+![LCD Interface](proteus/LPC2148_Circuit.png)
 
 ## Proteus Circuit
 
-![Proteus Circuit](Proteus/LPC2148_Circuit.png)
+![Proteus Circuit](proteus/LPC2148_Circuit.png)
 
 ## Project Setup
 
-![Project Setup](Proteus/mini%20project.jpeg)
+![Project Setup](proteus/mini project.jpeg)
 
 ---
 
