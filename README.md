@@ -1009,7 +1009,7 @@ The project can be extended with:
 
 ## LCD Interface
 
-![LCD Interface](proteus/LPC2148_Circuit.png)
+![LCD Interface](proteus/LPC2148_LCD.png)
 
 ## Proteus Circuit
 
@@ -1017,7 +1017,7 @@ The project can be extended with:
 
 ## Project Setup
 
-![Project Setup](proteus/mini project.jpeg)
+![Project Setup](Proteus/mini project.jpeg)
 
 ---
 
